@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Upgraded `pyo3` → 0.29.3, the first release with Python 3.15 support
+
 ## [0.3.0] - 2026-02-13
 
 ### Changed
